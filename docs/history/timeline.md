@@ -14,3 +14,4 @@
 - 2022-10-27: feat: add offline store optimization
 - 2022-11-26: feat: add streaming ingestion
 - 2022-12-26: fix: resolve versioning bug
+- 2023-01-25: feat: implement point-in-time correctness
