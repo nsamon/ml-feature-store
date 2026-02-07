@@ -19,3 +19,4 @@
 - 2023-03-26: refactor: improve store interface
 - 2023-04-25: feat: add offline store optimization
 - 2023-05-25: feat: implement new feature type
+- 2023-06-24: perf: optimize storage format
