@@ -9,3 +9,4 @@
 - 2022-05-30: docs: update architecture decisions
 - 2022-06-29: refactor: improve store interface
 - 2022-07-29: docs: update architecture decisions
+- 2022-08-28: perf: optimize storage format
