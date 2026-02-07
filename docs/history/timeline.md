@@ -6,3 +6,4 @@
 - 2022-03-01: feat: add streaming ingestion
 - 2022-03-31: feat: implement new feature type
 - 2022-04-30: feat: add offline store optimization
+- 2022-05-30: docs: update architecture decisions
