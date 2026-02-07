@@ -12,3 +12,4 @@
 - 2022-08-28: perf: optimize storage format
 - 2022-09-27: test: add consistency tests
 - 2022-10-27: feat: add offline store optimization
+- 2022-11-26: feat: add streaming ingestion
