@@ -16,3 +16,4 @@
 - 2022-12-26: fix: resolve versioning bug
 - 2023-01-25: feat: implement point-in-time correctness
 - 2023-02-24: docs: update architecture decisions
+- 2023-03-26: refactor: improve store interface
