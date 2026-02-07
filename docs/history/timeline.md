@@ -13,3 +13,4 @@
 - 2022-09-27: test: add consistency tests
 - 2022-10-27: feat: add offline store optimization
 - 2022-11-26: feat: add streaming ingestion
+- 2022-12-26: fix: resolve versioning bug
