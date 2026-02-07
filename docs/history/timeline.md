@@ -24,3 +24,4 @@
 - 2023-08-23: perf: optimize storage format
 - 2023-09-22: feat: implement new feature type
 - 2023-10-22: feat: implement new feature type
+- 2023-11-21: feat: add offline store optimization
