@@ -17,3 +17,4 @@
 - 2023-01-25: feat: implement point-in-time correctness
 - 2023-02-24: docs: update architecture decisions
 - 2023-03-26: refactor: improve store interface
+- 2023-04-25: feat: add offline store optimization
