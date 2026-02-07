@@ -4,3 +4,4 @@
 - 2021-12-31: refactor: improve store interface
 - 2022-01-30: feat: implement new feature type
 - 2022-03-01: feat: add streaming ingestion
+- 2022-03-31: feat: implement new feature type
