@@ -22,3 +22,4 @@
 - 2023-06-24: perf: optimize storage format
 - 2023-07-24: refactor: improve store interface
 - 2023-08-23: perf: optimize storage format
+- 2023-09-22: feat: implement new feature type
