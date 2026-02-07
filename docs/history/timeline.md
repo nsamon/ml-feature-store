@@ -18,3 +18,4 @@
 - 2023-02-24: docs: update architecture decisions
 - 2023-03-26: refactor: improve store interface
 - 2023-04-25: feat: add offline store optimization
+- 2023-05-25: feat: implement new feature type
